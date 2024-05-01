@@ -1,0 +1,3 @@
+These are the JPEG compressed versions of the original images.
+  If the filename ends with a "q1", it is the lower-quality JPEG (at quality "1" - ~90% reduced by size).
+  If it ends with a "q11", it is the higher-quality JPEG (at quality "11" - ~80% reduced by size).
