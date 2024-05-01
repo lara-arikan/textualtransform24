@@ -1,0 +1,64 @@
+The exact wording of every question in each survey:
+
+1. Survey A: Semantic Satisfaction Survey.
+
+Question: How similar is the feeling or meaning of these images?
+
+Notes: Two images with the same feeling or meaning represent the same scene, concept or object, but they might do so in different ways.
+Two images with very different feelings and meanings represent different scenes, concepts or objects.
+In this context, pixel-wise similarity is not important.
+
+2. Survey B: Comparative Semantic Content Survey.
+
+Question: Do the following two pictures contain the same objects, elements or people?
+    
+Notes: A response of 5 would mean the two pictures contain the exact same objects, elements or people in the exact same number.
+A response of 3 would mean the two pictures contain generally the same objects, elements or people, perhaps with certain mismatches (e.g. cats but no horses) but perhaps not in the same number (e.g. three cats on the left and one cat on the right).
+A response of 1 indicates there is no overlap between the objects, elements or people in the two images, or that these elements are present in wildly different number.
+
+Question: Do the objects, elements or people present in the two images look the same?
+
+Notes: A response of 5 would mean the two pictures contain objects, elements or people with the exact same appearance (same expressions, colors, sizes etc.).
+A response of 3 would mean the two pictures contain generally similar objects, elements or people, but with notable differences (different clothing, different shapes, different sizes etc.).
+A response of 1 indicates that although there may be the same kind of objects, elements or people in the two images, the matching objects look nothing like each other (e.g. fire truck instead of police car).
+
+Question: Do the objects, elements or people present in the two images have the same relative position, order or orientation?
+    
+Notes: A response of 5 would mean the objects, elements or people in the two images are arranged in the exact same positions with respect to each other (e.g. in the same order in a line, looking in the same direction.)
+A response of 3 would mean the objects, elements or people in the two images are generally similar in their relative orientation but may be scattered (e.g. one person is looking somewhere else.)
+A response of 1 indicates that the objects, elements or people in the two images stand in totally different arrangements.}
+
+Question: Does the general environment or background of the two images look the same?
+
+Notes: A response of 5 would mean the two pictures are set against the exact same kind of backdrop (e.g. mountains at sunset).
+A response of 3 would mean the two pictures are generally set in similar places, but there are divergent details (e.g. one is set in an office, the other in a conference hall.)
+A response of 1 indicates that there is no relation between the environments of the two images (e.g. one depicts a bedroom, the other a cave.)
+
+
+Question: Does the color scheme of the two images look the same?
+
+Notes: A response of 5 would mean the two pictures contain the exact same colors in the exact same contexts (e.g. a yellow skirt on a young girl in both pictures.)
+A response of 3 would mean the two pictures have generally similar coloring, but there are divergent details (e.g. the sky is much darker blue in one picture.)
+A response of 1 indicates that there is no overlap between colors in the two images (e.g. one house is pink and the other is orange.)
+
+3. Survey C: Detailed Semantic Content Survey.
+
+Question: What object(s), element(s) or person(s) stand out to you most in this image? 
+
+Notes: Comma-separate the object(s), element(s) or person(s) you name. Place them in order of how important they seem to you. Do not specify more than five.
+
+Examples: woman, dog, car, desk, tree
+    
+Question: How do the two "most important" objects you named above relate to each other? 
+
+Notes: Use a single verb to describe what they are doing together or doing to each other. 
+If they are inanimate, such as a desk and a chair, you may describe their spatial relationship (e.g. standing next to each other, sitting on top of each other). 
+If there is only one object that stands out to you, you may skip this question.
+    
+Examples: "standing together", "speaking", "embracing", "looking at each other"
+
+Question: What three adjectives best describe this image?
+
+Notes: Select up to three from the checkboxes below.
+    
+Options: 12 options, including "Busy", "Cheerful", "Eerie", "Pleasing" etc.
