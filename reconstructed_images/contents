@@ -1,0 +1,4 @@
+Here are all the DALL-E reconstructions of image captions.
+  If the filename ends with "gr", it is a GPT-4 caption.
+  If it ends with "sr", it is a BLIP caption.
+  Those ending with "hr" are human captions.
